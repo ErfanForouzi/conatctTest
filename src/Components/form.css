@@ -1,0 +1,9 @@
+.container{
+    padding: 20px;
+    background-color: azure;
+    border: 2px solid salmon;
+}
+.selected{
+    background-color: salmon;
+    border: 2px solid azure;
+}
